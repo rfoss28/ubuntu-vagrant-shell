@@ -1,0 +1,18 @@
+{
+  "name": "ice-cream-db-connection",
+  "version": "1.0.0",
+  "description": "",
+  "main": "iceCreamDBConnection.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "inquire": "^0.4.8",
+    "inquirer": "^6.2.0",
+    "mysql": "^2.16.0"
+  }
+}
